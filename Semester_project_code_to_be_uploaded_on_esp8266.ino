@@ -1,3 +1,4 @@
+//Made by Ali Raza MIT License
 /*this code is a general version in which we assume that all the sensors are connected with*/ 
 /*single esp8266, This could chane in future by only publishing single sensor data in single feed using single 
 esp8266 after its done practically. For the part of where we get the data from is we gonna use the Arduino uno 
